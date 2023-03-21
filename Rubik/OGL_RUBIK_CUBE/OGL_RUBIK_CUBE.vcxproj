@@ -150,8 +150,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\GL\src\glad.c" />
-    <ClCompile Include="..\..\..\..\..\..\GL\src\stb_image.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\..\GL\src\glad.c" />
+    <ClCompile Include="..\..\..\..\..\..\..\GL\src\stb_image.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

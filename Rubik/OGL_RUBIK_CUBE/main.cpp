@@ -122,7 +122,7 @@ int main()
     //stbi_set_flip_vertically_on_load(true); // tell stb_image.h to flip loaded texture's on the y-axis.
     
     //Ponemos nuetra textura en nuestra carpeta de texturas
-    unsigned char* data = stbi_load("C:\\gl\\resources\\textures\\cuboRubik.jpg", &width, &height, &nrChannels, 0);
+    unsigned char* data = stbi_load("C:\\Users\\juand\\Documents\\GitHub\\PortafolioGCI\\Rubik\\cuboRubik.jpg", &width, &height, &nrChannels, 0);
     if (data)
     {
         glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB, GL_UNSIGNED_BYTE, data);
