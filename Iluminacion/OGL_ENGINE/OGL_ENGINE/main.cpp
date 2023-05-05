@@ -276,7 +276,7 @@ void setMultipleLight(Shader *shader)
     shader->setVec3("dl.specular", mainLight.x, mainLight.y, mainLight.z);
 
     //LUZ ROJA
-    shader->setVec3("plred.position", ejercicioIlumPositions[0]);
+    shader->setVec3("plred.position", -3.3, 0.0, 0.3);
     shader->setVec3("plred.ambient", 1.0f, 0.0f, 0.0f);
     shader->setVec3("plred.diffuse", 1.0f, 0.0f, 0.0f);
     shader->setVec3("plred.specular", 1.0f, 0.0f, 0.0f);
@@ -285,7 +285,7 @@ void setMultipleLight(Shader *shader)
     shader->setFloat("plred.quadratic", 0.032);
 
     //LUZ VERDE
-    shader->setVec3("plgreen.position", ejercicioIlumPositions[1]);
+    shader->setVec3("plgreen.position", 0.3, 0.0, 0.3);
     shader->setVec3("plgreen.ambient", 0.0f, 1.0f, 0.0f);
     shader->setVec3("plgreen.diffuse", 0.0f, 1.0f, 0.0f);
     shader->setVec3("plgreen.specular", 0.0f, 1.0f, 0.0f);
@@ -294,7 +294,7 @@ void setMultipleLight(Shader *shader)
     shader->setFloat("plgreen.quadratic", 0.032);
 
     //LUZ AZUL
-    shader->setVec3("plblue.position", ejercicioIlumPositions[2]);
+    shader->setVec3("plblue.position", 3.3, 0.0, 0.3);
     shader->setVec3("plblue.ambient", 0.0f, 0.0f, 1.0f);
     shader->setVec3("plblue.diffuse", 0.0f, 0.0f, 1.0f);
     shader->setVec3("plblue.specular", 0.0f, 0.0f, 1.0f);
@@ -303,8 +303,8 @@ void setMultipleLight(Shader *shader)
     shader->setFloat("plblue.quadratic", 0.032);
 
     //SPOT LIGHT
-    shader->setVec3("sl.position", ejercicioIlumPositions[3]);
-    shader->setVec3("sl.direction", 0.0f, 2.5f, 0.0f);
+    shader->setVec3("sl.position", 0.3f, 1.5f, 0.3f);
+    shader->setVec3("sl.direction", 0.3f, 0.0f, 0.3f);
     shader->setVec3("sl.ambient", 0.0f, 0.0f, 0.0f);
     shader->setVec3("sl.diffuse", 1.0f, 1.0f, 1.0f);
     shader->setVec3("sl.specular", 1.0f, 1.0f, 1.0f);

@@ -1,101 +1,104 @@
 ﻿  main.cpp
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\camera.h(76,1): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\camera.h(76,1): warning C4305: 'argumento': truncamiento de 'double' a 'T'
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(34,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(34,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(35,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(35,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(96,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(97,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Objectives.h(4,13): warning C4081: se esperaba 'newline'; se encontró ';'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(63,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(64,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(61,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(62,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\RigidModel.h(1,13): warning C4081: se esperaba 'newline'; se encontró ';'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\mesh.h(111,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(52,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(192,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\textrenderer.h(117,37): warning C4838: la conversión de 'FT_Pos' en 'unsigned int' requiere una conversión de restricción
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\variables.h(108,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(143,33): warning C4305: '+=': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(366,69): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(414,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(96,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(97,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Objectives.h(4,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(63,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(64,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(61,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(62,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\RigidModel.h(1,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\mesh.h(111,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(52,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(192,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\textrenderer.h(117,37): warning C4838: la conversión de 'FT_Pos' en 'unsigned int' requiere una conversión de restricción
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\variables.h(108,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(143,33): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(366,69): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(414,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(427,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(427,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(440,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(440,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(533,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(534,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(538,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(539,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(541,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(542,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(564,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(565,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(569,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(570,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(572,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(573,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(592,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(71,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(74,28): warning C4305: '+=': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(223,33): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(533,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(534,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(538,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(539,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(541,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(542,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(564,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(565,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(569,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(570,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(572,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(573,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(592,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(71,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(74,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(223,33): warning C4305: 'argumento': truncamiento de 'double' a 'T'
           with
           [
               T=float
           ]
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(284,42): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(285,46): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(293,44): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(294,48): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(302,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(303,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(312,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(313,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(344,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(345,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(352,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(353,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(360,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(361,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(368,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(369,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(377,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(378,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(389,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(390,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(400,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(401,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(411,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\OGL_ENGINE\main.cpp(412,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(279,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(284,42): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(285,46): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(288,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(293,44): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(294,48): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(297,53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(302,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(303,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(312,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(313,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(344,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(345,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(352,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(353,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(360,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(361,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(368,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(369,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(377,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(378,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(389,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(390,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(400,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(401,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(411,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\OGL_ENGINE\main.cpp(412,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-  OGL_ENGINE.vcxproj -> C:\Users\juand\Desktop\OGL_ENGINE_1854390\OGL_ENGINE\x64\Debug\OGL_ENGINE.exe
+  OGL_ENGINE.vcxproj -> C:\Users\juand\Documents\GitHub\PortafolioGCI2\Iluminacion\OGL_ENGINE\x64\Debug\OGL_ENGINE.exe
