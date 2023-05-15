@@ -1,0 +1,25 @@
+﻿main.obj : error LNK2019: símbolo externo _glfwInit sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwTerminate sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwWindowHint sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwCreateWindow sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwWindowShouldClose sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwPollEvents sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetInputMode sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetKey sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwSetCursorPosCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetScrollCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetTime sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwMakeContextCurrent sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSwapBuffers sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetProcAddress sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) sin resolver al que se hace referencia en la función "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+main.obj : error LNK2019: símbolo externo "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo _aiGetMaterialTextureCount sin resolver al que se hace referencia en la función "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+main.obj : error LNK2019: símbolo externo _aiGetMaterialTexture sin resolver al que se hace referencia en la función "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+lib\assimp-vc140-mt.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\jossr\source\repos\OGL_ENGINE\Debug\OGL_ENGINE.exe : fatal error LNK1120: 22 externos sin resolver

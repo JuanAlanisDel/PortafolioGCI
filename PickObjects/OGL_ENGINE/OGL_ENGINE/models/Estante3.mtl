@@ -1,0 +1,21 @@
+newmtl Carrito_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hypercasual_shopping_atlas.tga
+Ni 1.00
+newmtl Estante3_lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hypercasual_shopping_atlas.tga
+Ni 1.00
+newmtl Estante3_lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hypercasual_supermarket_albedo.tga
+Ni 1.00

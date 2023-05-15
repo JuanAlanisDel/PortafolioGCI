@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432781073698",
+    "firebase_url": "https://travexflutter.firebaseio.com",
+    "project_id": "travexflutter",
+    "storage_bucket": "travexflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432781073698:android:9d3d7207fa138d46f0997b",
+        "android_client_info": {
+          "package_name": "com.oc.app.travex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432781073698-4acjteojs4onub09pg2trblooc96s97c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oc.app.travex",
+            "certificate_hash": "6cd1682455b19155c1eecd78982d04d09eb22d51"
+          }
+        },
+        {
+          "client_id": "432781073698-ae716e6kldl9vovq9dj09arhquk73686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7w-nsTG2AXtjzs2ECM6xWb9UfZrjgkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432781073698-ae716e6kldl9vovq9dj09arhquk73686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
